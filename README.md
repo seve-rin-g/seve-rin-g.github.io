@@ -4,10 +4,8 @@ Full-stack software engineer with research background, specializing in data visu
 
 *(Note: Unfortunately the bulk of my work has been NDA and I'm still in the processing of removing protected data. However today I'm putting up a small sample of past work.)*
 
-## Web-based Visualization examples for scientific data
-
-### Project 1/2: Aggregated Bioreactor Data Visualization in the Cloud  
-
+## Two web-based visualization examples for scientific data
+### Aggregated bioreactor data visualization in the cloud  
 A large project coded in React/redux. Uses an extensive API pulling from complex datasources. High interactability (via user context) by Plotly and React. 
 
 [!['cloudviz'](timecloudviz_overview.png)](https://raw.githubusercontent.com/seve-rin-g/seve-rin-g.github.io/refs/heads/main/timecloudviz_overview.png)
@@ -16,7 +14,7 @@ This screenshot shows 6 time-series plots (pH, DO2, Temperature, Base Flow, CO_2
 
 Users typically use this view to monitor experiments live, while overlaying them with past experiment performance, and can export data for local statisical analysis if needed.
 
-### Project 2/2: Variability in Raw Material Vendor lots
+### Variability in raw material vendor lots
 
 A small (1-page) project coded in d3/js, showing bar/scatter plots. Small, researcher-maintained datasource.
 
