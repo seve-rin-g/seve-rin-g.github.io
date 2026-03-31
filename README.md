@@ -16,7 +16,7 @@ Users typically use this view to monitor experiments live, while overlaying them
 
 ### Variability in raw material vendor lots
 
-A small (1-page) project I solo-developed in d3.js, showing bar/scatter plots. The datasource is researcher-maintained with lots of low-complexity data (relational DB).
+A small (1-page) project I solo-developed in d3.js, showing bar/scatter plots. The main datasource is researcher-maintained with lots of low-complexity data (relational DB).
 
 #### Plot functionality overview
 
