@@ -13,7 +13,7 @@ However today I'm putting up a small representative sample of high-density scien
 
 ### Project: Variability in Raw Material Vendor lots
 
-!('RMV plot demonstration')[https://github.com/seve-rin-g/material-component-analysis/raw/main/rmv_graphs.gif]
+!['RMV plot demonstration'](https://github.com/seve-rin-g/material-component-analysis/raw/main/rmv_graphs.gif)
 
 Left scatter plot: the contribution of each component (x-axis) to the final measured trace element concentration (y-axis). Hovering shows the vendor lot and assay number so users can follow up as needed.
 
