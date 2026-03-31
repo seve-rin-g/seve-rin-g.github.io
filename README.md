@@ -5,7 +5,7 @@ Full-stack software engineer with research background, specializing in data visu
 ## Note
 
 I am just putting this portfolio together. 
-Unfortunately the bulk of my work has been NDA and I'm still in the processing of extracting everything. 
+Unfortunately the bulk of my work has been NDA and I'm still in the processing of making visualizations hostable without revealing protected data. 
 
 However today I'm putting up a small representative sample of high-density scientific visualization.
 
