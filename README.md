@@ -12,7 +12,7 @@ A large project coded in React/redux. Uses an extensive API pulling from complex
 
 [!['cloudviz'](timecloudviz_overview.png)](https://raw.githubusercontent.com/seve-rin-g/seve-rin-g.github.io/refs/heads/main/timecloudviz_overview.png)
 
-This shows 6 time-series plots (pH, DO2, Temperature, Base Flow, CO_2, pH Calibration offsets) for 12 small-scale bioreactors. The application is performant up to ~48 bioreactors. 
+This screenshot shows 6 time-series plots (pH, DO2, Temperature, Base Flow, CO_2, pH Calibration offsets -- these are diverse data-types) for 12 small-scale bioreactors. The application is performant up to ~48 bioreactors. 
 
 If the experiment is active, the plots will update in real-time. 
 
