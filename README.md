@@ -41,6 +41,4 @@ The embedded table is populated with data from a GCP asset maintained by Media D
 
 Generative visualization of 3 FFT bins in JS/P5, contract for a composer client. (The final product was a live-coded JS performance in front of an audience.)
 
-
-
-<video src='[your URL here](https://github.com/seve-rin-g/seve-rin-g.github.io/raw/refs/heads/main/fft-p5-viz-trimmed.mp4)'>
+<video src='https://github.com/seve-rin-g/seve-rin-g.github.io/raw/refs/heads/main/fft-p5-viz-trimmed.mp4'></video>
