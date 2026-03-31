@@ -34,7 +34,7 @@ The embedded table is populated with data from a GCP asset maintained by Media D
 
 ## Non-scientific visualization design work
 
-In my free time I do a lot of extra-curricular design work with new-media tools where I can collaborate with other designers and artists. 
+Outside of a scientific setting, I do contract new-media design work where I can collaborate with other artists and keep up on the current state of browser-based visualization for a variety of applications. 
 
 ### Easterner Hydra set (2024)
 
