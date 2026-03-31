@@ -23,6 +23,6 @@ Left scatter plot: the contribution of each component (x-axis) to the final meas
 
 Right stacked bar plot: this gives the user an idea of the min, max, and average ranges of this trace element (in this case, Mn) that they might see in this process.
 
-!['RMV scroll'](https://github.com/seve-rin-g/material-component-analysis/raw/main/rmv_scroll.gif)
+!['RMV scroll'](https://github.com/seve-rin-g/material-component-analysis/raw/main/rmv-scroll.gif)
 
 The embedded table is populated with data from a GCP asset maintained by Media Development researchers, but can be edited within the browser. The page generates 16x2 plots total (colors conserved across the plots).
