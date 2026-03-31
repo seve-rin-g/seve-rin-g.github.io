@@ -13,9 +13,13 @@ However today I'm putting up a small representative sample of high-density scien
 
 ### Project: Cloud Viz
 
-
+A large project coded in React/redux. Uses an extensive API pulling from complex datasources. 
 
 ### Project: Variability in Raw Material Vendor lots
+
+A small (1-page) project coded in d3/js, showing bar/scatter plots. Small, researcher-maintained datasource.
+
+#### Plot functionality overview
 
 !['RMV plot demonstration'](https://github.com/seve-rin-g/material-component-analysis/raw/main/rmv_graphs.gif)
 
