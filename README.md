@@ -11,7 +11,7 @@ However today I'm putting up a small representative sample of high-density scien
 
 ## Visualization examples
 
-### Project: Cloud Viz
+### Project: Aggregated Bioreactor Data Visualization in the Cloud  
 
 A large project coded in React/redux. Uses an extensive API pulling from complex datasources. 
 
