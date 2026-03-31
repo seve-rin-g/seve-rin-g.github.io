@@ -4,7 +4,7 @@ Full-stack software engineer with research background, specializing in data visu
 
 *(Note: Unfortunately the bulk of my work has been NDA and I'm still in the processing of making visualizations hostable without revealing protected data. However today I'm putting up a small sample of past work.)*
 
-## Visualization examples (web-based, for scientific data)
+## Web-based Visualization examples for scientific data
 
 ### Project: Aggregated Bioreactor Data Visualization in the Cloud  
 
@@ -41,4 +41,6 @@ The embedded table is populated with data from a GCP asset maintained by Media D
 
 Generative visualization of 3 FFT bins in JS/P5, contract for a composer client. (The final product was a live-coded JS performance in front of an audience.)
 
-https://github.com/seve-rin-g/seve-rin-g.github.io/raw/refs/heads/main/fft-p5-viz-trimmed.mp4
+
+
+<video src='[your URL here](https://github.com/seve-rin-g/seve-rin-g.github.io/raw/refs/heads/main/fft-p5-viz-trimmed.mp4)'>
