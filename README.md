@@ -45,6 +45,8 @@ In my free time I do a lot of extra-curricular design work with new-media tools 
 
 Generative visualization of 3 FFT bins in JS/P5, contract for a composer client. (This is a dev session; the final product was a "live-coding" performance in front of an audience.)
 
+#### Embedded video
+
 <video controls src='https://github.com/user-attachments/assets/1757d33e-37a8-4078-ad76-4be0889dbc15
 ' width="100%"></video>
 
