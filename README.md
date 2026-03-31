@@ -1,4 +1,4 @@
-# Rin G
+# Rin Grüver
 
 Full-stack software engineer with research background, specializing in data visualization and design. 
 
