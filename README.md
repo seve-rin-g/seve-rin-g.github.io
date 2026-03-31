@@ -38,7 +38,7 @@ In my free time I do a lot of extra-curricular design work with new-media tools 
 
 ### Easterner Hydra set (2024)
 
-Generative visualization of 3 FFT bins in JS/P5, contract for a composer client. (This is a dev session; the final product was a "live-coding" performance in front of an audience.)
+Generative visualization of 3 FFT bins in JS/P5, contract for a composer client. (This is a dev session; the final product was a "live-coding" performance in front of an audience at Gray Area SF.)
 
 #### Embedded video
 
