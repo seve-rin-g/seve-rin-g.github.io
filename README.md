@@ -6,7 +6,7 @@ Full-stack software engineer with research background, specializing in data visu
 
 ## Two web-based visualization examples for scientific data
 ### Aggregated bioreactor data visualization in the cloud  
-A large project coded in React/redux. Uses an extensive API pulling from complex datasources. High interactability (via user context) by Plotly and React. 
+A large project coded in React Redux. Uses an extensive API pulling from complex datasources. High interactability (via user context) by Plotly and React. 
 
 [!['cloudviz'](timecloudviz_overview.png)](https://raw.githubusercontent.com/seve-rin-g/seve-rin-g.github.io/refs/heads/main/timecloudviz_overview.png)
 
