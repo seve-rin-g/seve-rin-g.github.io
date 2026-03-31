@@ -1,6 +1,6 @@
 # Rin Grüver
 
-Full-stack software engineer with research background, specializing in data visualization and design. 
+Full-stack software engineer with research background, specializing in data visualization. 
 
 *(Note: Unfortunately the bulk of my work has been NDA and I'm still in the processing of removing protected data. However today I'm putting up a small sample of past work.)*
 
