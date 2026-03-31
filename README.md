@@ -38,7 +38,7 @@ Outside of a scientific setting, I do contract new-media design work where I can
 
 ### Easterner Hydra set (2024)
 
-Generative visualization of 3 FFT bins in JS/P5, contract for a composer client. (This is a dev session; the final product was a "live-coding" performance in front of an audience at Gray Area SF.)
+Generative visualization of 3 FFT bins in JS/P5, contract for a composer client. (This is a dev session, where one can more clearly see the relationship between code and visualization; the final product was a "live-coding" projected performance at Gray Area SF.)
 
 #### Embedded video
 
