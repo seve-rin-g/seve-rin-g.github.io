@@ -2,24 +2,21 @@
 
 Full-stack software engineer with research background, specializing in data visualization and design. 
 
-*(Note: Unfortunately the bulk of my work has been NDA and I'm still in the processing of making visualizations hostable without revealing protected data. However today I'm putting up a small sample of past work.)*
+*(Note: Unfortunately the bulk of my work has been NDA and I'm still in the processing of removing protected data. However today I'm putting up a small sample of past work.)*
 
 ## Web-based Visualization examples for scientific data
 
-### Project: Aggregated Bioreactor Data Visualization in the Cloud  
+### Project 1/2: Aggregated Bioreactor Data Visualization in the Cloud  
 
 A large project coded in React/redux. Uses an extensive API pulling from complex datasources. High interactability (via user context) by Plotly and React. 
 
 [!['cloudviz'](timecloudviz_overview.png)](https://raw.githubusercontent.com/seve-rin-g/seve-rin-g.github.io/refs/heads/main/timecloudviz_overview.png)
 
-This screenshot shows 6 time-series plots (pH, DO2, Temperature, Base Flow, CO_2, pH Calibration offsets -- these are diverse data-types) for 12 small-scale bioreactors. The application is performant up to ~48 bioreactors. 
+This screenshot shows 6 time-series plots (pH, DO2, Temperature, Base Flow, CO_2, pH Calibration offsets -- diverse data-types with different origins and sampling resolutions) for 12 small-scale bioreactors. If the experiment is active, the plots will update in real-time and is performant up to ~48 bioreactors (the user-defined max use case). 
 
-If the experiment is active, the plots will update in real-time. 
+Users typically use this view to monitor experiments live, while overlaying them with past experiment performance, and can export data for local statisical analysis if needed.
 
-Users typically use this to monitor experiments live, while overlaying them with past experiment performance, and can export data for local statisical analysis if needed.
-
-
-### Project: Variability in Raw Material Vendor lots
+### Project 2/2: Variability in Raw Material Vendor lots
 
 A small (1-page) project coded in d3/js, showing bar/scatter plots. Small, researcher-maintained datasource.
 
