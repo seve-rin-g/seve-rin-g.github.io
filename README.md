@@ -1,4 +1,4 @@
-# Rin G
+# Rin G.
 
 Full-stack software engineer with research background, specializing in data visualization and design. 
 
@@ -9,7 +9,7 @@ Unfortunately the bulk of my work has been NDA and I'm still in the processing o
 
 However today I'm putting up a small representative sample of high-density scientific visualization.
 
-## Visualization examples
+## Visualization examples (web-based, for scientific data)
 
 ### Project: Aggregated Bioreactor Data Visualization in the Cloud  
 
@@ -35,6 +35,8 @@ A small (1-page) project coded in d3/js, showing bar/scatter plots. Small, resea
 Left scatter plot: the contribution of each component (x-axis) to the final measured trace element concentration (y-axis). Hovering shows the vendor lot and assay number so users can follow up as needed.
 
 Right stacked bar plot: this gives the user an idea of the min, max, and average ranges of this trace element (in this case, Mn) that they might see in this process.
+
+#### The user can scroll through many plots
 
 !['RMV scroll'](https://github.com/seve-rin-g/material-component-analysis/raw/main/rmv-scroll.gif)
 
