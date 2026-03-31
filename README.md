@@ -2,7 +2,7 @@
 
 Full-stack software engineer with research background, specializing in data visualization. 
 
-*(Note: Unfortunately the bulk of my work has been NDA and I'm still in the processing of removing protected data. However today I'm putting up a small sample of past work.)*
+*(Note: Unfortunately the vast bulk of my work has been NDA, and I'm still in the process of removing protected data before hosting apps I've developed. Until that is the case, I'm putting up a small visual sample of past work.)*
 
 ## Two web-based visualization examples for scientific data
 ### Aggregated bioreactor data visualization in the cloud  
