@@ -36,3 +36,9 @@ Right stacked bar plot: this gives the user an idea of the min, max, and average
 !['RMV scroll'](https://github.com/seve-rin-g/material-component-analysis/raw/main/rmv-scroll.gif)
 
 The embedded table is populated with data from a GCP asset maintained by Media Development researchers, but can be edited within the browser. The page generates 16x2 plots total (colors conserved across the plots).
+
+## Non-scientific visualization design work
+
+Generative visualization of 3 FFT bins in JS/P5, contract for a composer client.
+
+https://fft-p5-viz-trimmed.mp4
