@@ -15,7 +15,7 @@ However today I'm putting up a small representative sample of high-density scien
 
 A large project coded in React/redux. Uses an extensive API pulling from complex datasources. High interactability (via user context) by Plotly and React. 
 
-!['cloudviz'](timecloudviz_overview.png)
+[!['cloudviz'](timecloudviz_overview.png)](timecloudviz_overview.png)
 
 This shows 6 time-series plots (pH, DO2, Temperature, Base Flow, CO_2, pH Calibration offsets) for 12 small-scale bioreactors. The application is performant up to ~48 bioreactors. 
 
