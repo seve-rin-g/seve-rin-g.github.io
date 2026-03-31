@@ -39,6 +39,10 @@ The embedded table is populated with data from a GCP asset maintained by Media D
 
 ## Non-scientific visualization design work
 
+In my free time I do a lot of extra-curricular design work with new-media tools where I can collaborate with other designers and artists. 
+
+### Easterner Hydra set (2024)
+
 Generative visualization of 3 FFT bins in JS/P5, contract for a composer client. (This is a dev session; the final product was a "live-coding" performance in front of an audience.)
 
 <video controls src='https://github.com/user-attachments/assets/1757d33e-37a8-4078-ad76-4be0889dbc15
