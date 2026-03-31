@@ -2,12 +2,7 @@
 
 Full-stack software engineer with research background, specializing in data visualization and design. 
 
-## Note
-
-I am just putting this portfolio together. 
-Unfortunately the bulk of my work has been NDA and I'm still in the processing of making visualizations hostable without revealing protected data. 
-
-However today I'm putting up a small representative sample of high-density scientific visualization.
+*(Note: Unfortunately the bulk of my work has been NDA and I'm still in the processing of making visualizations hostable without revealing protected data. However today I'm putting up a small sample of past work.)*
 
 ## Visualization examples (web-based, for scientific data)
 
