@@ -32,6 +32,18 @@ Right (stacked bar plot): this gives the user an idea of the min, max, and avera
 
 The embedded table is populated with data from a GCP asset maintained by Media Development researchers, but can be edited within the browser for immediate feedback. The page generates 16x2 plots total (colors conserved across the plots).
 
+## Visualization for Audio Engineering
+
+### CAD2SPL
+
+!['SPL responses'](https://github.com/seve-rin-g/material-component-analysis/raw/main/rmv-scroll.gif)
+
+Artisan speakers are manufactured using CNC routing (specific types of wood remain an acoustically superior material for transmission). CAD designs are finalized in a software simulation environment that attempts to achieve a level SPL x frequency response. These simulation engines traditionally use physics-based models (BEM/LEM) that require a large amount of specification for input; the user's inability to specify these parameters correctly can lead to an inaccurate response.
+
+Our goal with CAD2SPL is to forego the parameterization step and develop a means of simulating response. 
+
+Additional constraint: preference is to use Ollama (local deployment of Chat-GPT) to keep CAD files local until patenting.
+
 ## Non-scientific visualization design work
 
 Outside of a scientific setting, I do contract new-media design work where I can collaborate with other artists and keep up on the current state of browser-based visualization for a variety of applications. 
