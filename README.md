@@ -36,11 +36,13 @@ The embedded table is populated with data from a GCP asset maintained by Media D
 
 ### CAD2SPL
 
-!['SPL responses'](https://github.com/seve-rin-g/material-component-analysis/raw/main/rmv-scroll.gif)
+!['SPL responses'](https://raw.githubusercontent.com/seve-rin-g/seve-rin-g.github.io/refs/heads/main/Loudspeaker-sound-pressure-level-curves-768x512.jpg)
+
+*frequency x SPL example plots*
 
 Artisan speakers are manufactured using CNC routing (specific types of wood remain an acoustically superior material for transmission). CAD designs are finalized in a software simulation environment that attempts to achieve a level SPL x frequency response. These simulation engines traditionally use physics-based models (BEM/LEM) that require a large amount of specification for input; the user's inability to specify these parameters correctly can lead to an inaccurate response.
 
-Our goal with CAD2SPL is to forego the parameterization step and develop a means of simulating response. 
+Our goal with CAD2SPL is to forego the parameterization step and develop a means of simulating response with only the CAD files as input. 
 
 Additional constraint: preference is to use Ollama (local deployment of Chat-GPT) to keep CAD files local until patenting.
 
