@@ -1,11 +1,11 @@
-# Rin Grüver
+# Rin G.
 
 Full-stack software engineer with research background, specializing in data visualization. 
 
 *(Note: Unfortunately the vast bulk of my work has been NDA, and I'm still in the process of removing protected data before hosting apps I've developed. Until that is the case, I'm putting up a small visual sample of past work.)*
 
 ## Two web-based visualization examples for scientific data
-### Aggregated bioreactor data visualization in the cloud  
+### I. Aggregated bioreactor data visualization in the cloud  
 A large project (emphasis on calculations, streaming, speed, and data accessibility) coded in React Redux. High user-context interactability via Plotly and React. 
 
 [!['cloudviz'](timecloudviz_overview.png)](https://raw.githubusercontent.com/seve-rin-g/seve-rin-g.github.io/refs/heads/main/timecloudviz_overview.png)
@@ -14,7 +14,7 @@ This screenshot shows 6 time-series plots (pH, DO2, Temperature, Base Flow, CO_2
 
 Users typically use this view to monitor experiments live, while overlaying them with past experiment performance, and can export data for local statisical analysis if needed.
 
-### Variability in raw material vendor lots
+### II. Variability in raw material vendor lots
 
 A small (1-page) project I solo-developed in d3.js, showing bar/scatter plots. The main datasource is researcher-maintained with lots of low-complexity data (relational DB).
 
